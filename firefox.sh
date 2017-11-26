@@ -6,7 +6,7 @@ sudo apt-get purge firefox
 
 git clone https://github.com/mhyvarinen/firefox.git
 
-sudo mv -r firefox /etc/puppet/modules/
+sudo cp -r /home/xubuntu/firefox /etc/puppet/modules/
 
 git clone https://github.com/mhyvarinen/firefox-site.pp.git
 
