@@ -2,7 +2,7 @@ sudo apt-get update
 
 sudo apt-get install -y puppet git
 
-sudo apt-get purge firefox
+sudo apt-get purge -y firefox
 
 git clone https://github.com/mhyvarinen/firefox.git
 
