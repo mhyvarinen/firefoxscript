@@ -1,6 +1,6 @@
 sudo apt-get update
 
-sudo apt-get install -y puppet git
+sudo apt-get install -y puppet git tree
 
 sudo apt-get purge -y firefox
 
